@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  SEDProfessor
+
+  Created by Victor Bozelli Alvarez on 30/05/16.
+  Copyright © 2016 prodesp. All rights reserved.
+*/
+"br.com.bozelli.currencyconverter.attention" = "Attention";
+"br.com.bozelli.currencyconverter.loading" = "Loading...";
+"br.com.bozelli.currencyconverter.loadingCurrencyRates" = "Loading currency rates... Please wait...";
+"br.com.bozelli.currencyconverter.ok" = "OK";
+"br.com.bozelli.currencyconverter.notConnectedToInternet" = "You aren't connected to the Internet! Please connect to the Internet!";
